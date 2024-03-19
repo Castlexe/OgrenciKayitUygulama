@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\ogrencikayitgthb\\\u00D6\u011Frenci Kay\u0131t Sistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08BF7189-153D-4192-8AA8-CAB2E3509C59}|\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi.csproj|C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00F6\u011Frenci kay\u0131t sistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08BF7189-153D-4192-8AA8-CAB2E3509C59}|\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi.csproj|solutionrelative:\u00F6\u011Frenci kay\u0131t sistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08BF7189-153D-4192-8AA8-CAB2E3509C59}|\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi.csproj|C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\ogrencikayitgthb\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00F6\u011Frenci kay\u0131t sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08BF7189-153D-4192-8AA8-CAB2E3509C59}|\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi.csproj|solutionrelative:\u00F6\u011Frenci kay\u0131t sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08BF7189-153D-4192-8AA8-CAB2E3509C59}|\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi.csproj|c:\\users\\pc\\desktop\\codexe\\g\u00F6rsel programlama\\burhan karya\u011Fd\u0131\\\u00F6\u011Frenci kay\u0131t sistemi\\\u00F6\u011Frenci kay\u0131t sistemi\\\u00F6\u011Frenci kay\u0131t sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{08BF7189-153D-4192-8AA8-CAB2E3509C59}|\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi.csproj|solutionrelative:\u00F6\u011Frenci kay\u0131t sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{08BF7189-153D-4192-8AA8-CAB2E3509C59}|\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi.csproj|c:\\users\\pc\\desktop\\codexe\\g\u00F6rsel programlama\\burhan karya\u011Fd\u0131\\\u00F6\u011Frenci kay\u0131t sistemi\\ogrencikayitgthb\\\u00F6\u011Frenci kay\u0131t sistemi\\\u00F6\u011Frenci kay\u0131t sistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08BF7189-153D-4192-8AA8-CAB2E3509C59}|\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi.csproj|solutionrelative:\u00F6\u011Frenci kay\u0131t sistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\ogrencikayitgthb\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\Form1.cs",
               "RelativeDocumentMoniker": "\u00D6\u011Frenci Kay\u0131t Sistemi\\Form1.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\ogrencikayitgthb\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\Form1.cs [Design]",
               "RelativeToolTip": "\u00D6\u011Frenci Kay\u0131t Sistemi\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T17:07:09.65Z",
@@ -34,11 +34,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\ogrencikayitgthb\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\Form2.cs",
               "RelativeDocumentMoniker": "\u00D6\u011Frenci Kay\u0131t Sistemi\\Form2.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Codexe\\G\u00F6rsel Programlama\\Burhan Karya\u011Fd\u0131\\\u00D6\u011Frenci Kay\u0131t Sistemi\\ogrencikayitgthb\\\u00D6\u011Frenci Kay\u0131t Sistemi\\\u00D6\u011Frenci Kay\u0131t Sistemi\\Form2.cs [Design]",
               "RelativeToolTip": "\u00D6\u011Frenci Kay\u0131t Sistemi\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T17:13:29.252Z",
