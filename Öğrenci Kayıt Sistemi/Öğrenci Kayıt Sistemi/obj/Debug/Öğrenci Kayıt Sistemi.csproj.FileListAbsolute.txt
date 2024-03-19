@@ -1,0 +1,33 @@
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.exe.config
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.exe
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.pdb
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Form1.resources
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.exe
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.pdb
+C:\Users\PC\Desktop\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Form2.resources
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.exe.config
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.exe
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.pdb
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Form1.resources
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Form2.resources
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.exe
+C:\Users\PC\Desktop\Burhan KARYAĞDI\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.pdb
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.exe.config
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.exe
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.pdb
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Form1.resources
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Form2.resources
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.exe
+C:\Users\PC\Desktop\Codexe\Görsel Programlama\Burhan Karyağdı\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.pdb
